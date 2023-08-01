@@ -12,7 +12,7 @@ Eu sou Sara Peres, sou desenvolvedora Front End, atualmente desenvolvo aplica√ß√
   ![sara stats](https://github-readme-stats.vercel.app/api?username=Sara-Peres&show_icons=true&theme=radical)
 <br>
 <br>
-  [![sara Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Peres&theme=blue-green)
+  ![sara Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Peres&theme=blue-green)
 
   
 
